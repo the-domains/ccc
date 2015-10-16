@@ -4,7 +4,7 @@
         <description><![CDATA[ccc]]></description>
         <link>https://thegrid.ai/ccc/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 16 Oct 2015 17:41:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Oct 2015 23:08:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ccc/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/ccc/9fba5c38-757d-4c71-b6a6-796750e731b4/index.html</link>
             <guid isPermaLink="false">9fba5c38-757d-4c71-b6a6-796750e731b4</guid>
             <pubDate>Fri, 16 Oct 2015 17:41:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Epiflo and the Halo are some of the new and innovative products we offer at CCC. </p>]]></description>
+            <link>https://thegrid.ai/ccc/62c6a19b-e55c-462d-aac0-120ad999e6c6/index.html</link>
+            <guid isPermaLink="false">62c6a19b-e55c-462d-aac0-120ad999e6c6</guid>
+            <pubDate>Fri, 16 Oct 2015 23:07:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
