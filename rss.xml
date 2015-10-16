@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[ccc]]></title>
         <description><![CDATA[ccc]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ccc/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 16 Oct 2015 17:41:16 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 16 Oct 2015 17:41:37 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ccc/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Clinical Compliance Concepts, Inc. is a Clinical and Technology based consulting company providing services to the Healthcare   Industry. Our consultants' experience, talents and training allow us to provide the right mix of clinical and technical skills available anywhere. We can fill your short-term or long-term needs. We're not fancy and slick. We offer only hard working people with the skills, experience, attitude, and drive to accomplish what you need. We know how to "roll up our sleeves" and get the job done.</p>]]></description>
-            <link>undefined9fba5c38-757d-4c71-b6a6-796750e731b4/index.html</link>
+            <link>https://thegrid.ai/ccc/9fba5c38-757d-4c71-b6a6-796750e731b4/index.html</link>
             <guid isPermaLink="false">9fba5c38-757d-4c71-b6a6-796750e731b4</guid>
-            <pubDate>Fri, 16 Oct 2015 17:40:20 GMT</pubDate>
+            <pubDate>Fri, 16 Oct 2015 17:41:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
